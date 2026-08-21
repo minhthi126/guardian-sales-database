@@ -6,6 +6,7 @@ Trọng tâm của dự án là phân tích, thiết kế và xây dựng cơ s�
 
 > **Lưu ý:** Đây là dự án học tập mô phỏng hệ thống cơ sở dữ liệu quản lý bán hàng Guardian, được thực hiện phục vụ mục đích học tập và không phải hệ thống chính thức của Guardian.
 
+📄 [Xem báo cáo tóm tắt dự án](report/Bao-cao-tom-tat-du-an-Guardian.pdf)
 ---
 
 ## Chức năng chính
